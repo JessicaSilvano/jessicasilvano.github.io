@@ -571,6 +571,7 @@ img {
     background-color: var(--first-color-darken);
     color: var(--first-color-lighten);
     text-align: center;
+    width: 100%;
 }
 
 .footer-title {
