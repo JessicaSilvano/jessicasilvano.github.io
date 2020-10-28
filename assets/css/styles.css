@@ -116,7 +116,7 @@ img {
 
 .section-subtitle {
     display: block;
-    font-size: var(--small-font-size);
+    font-size: 1.35rem;
     color: var(--first-color-darken);
     text-align: center;
     font-weight: var(--font-bold);
