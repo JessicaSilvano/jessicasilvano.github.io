@@ -6,7 +6,7 @@ Nesse repositório se encontra o site com o meu portfolio.
 
 Nele estão os principais projetos já feitos por mim até agora.
 
-### ***Ainda está em construção***
+### ***=============Ainda está em construção=============***
 
 ## 🖥️ Tecnologias usadas
 
