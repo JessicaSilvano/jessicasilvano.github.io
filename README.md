@@ -1,20 +1,20 @@
-# Portfolio pessoal
+<h1 align="center">My Portfolio </h1>
 
-## 📋 Descrição
+<p><img src= "https://img.shields.io/static/v1?label=Status&message=Developing&color=green&style=flat"> 
+ <img src= "https://img.shields.io/static/v1?label=Language&message=HTML%205&color=red&style=flat"> 
+ <img src= "https://img.shields.io/static/v1?label=Language&message=CSS%203&color=blue&style=flat"> 
+ <img src= "https://img.shields.io/static/v1?label=Language&message=JavaScript&color=yellow&style=flat&"> </p>
 
-Nesse repositório se encontra o site com o meu portfolio.
 
-Nele estão os principais projetos já feitos por mim até agora.
+## 📋 Description
+<p>In this repository you will find the website with my portfolio. In it are the main projects already done by me until now.</p>
 
-### ***Ainda está em construção***
+## 🖥️ Deploy
 
-## 🖥️ Tecnologias usadas
+- [Deploy](https://jessicasilvano.github.io/Barbearia-Alura/)
+- [Code](https://github.com/jessicasilvano/Barbearia-Alura)
 
-- HTML
-- CSS
-- Javascript
-
-## 🖼️ Resultado
+## 🖼️ Result
 
 ![](./assets/img/Anotação%202020-10-27%20213012.jpg)
 
