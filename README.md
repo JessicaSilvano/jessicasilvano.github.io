@@ -17,7 +17,3 @@
 ## 🖼️ Result
 
 ![](./assets/img/Anotação%202020-10-27%20213012.jpg)
-
-![](./assets/img/Anotação%202020-10-27%20213439.jpg)
-
-![](./assets/img/Anotação%202020-10-27%202134329.jpg)
