@@ -11,8 +11,8 @@
 
 ## 🖥️ Deploy
 
-- [Deploy](https://jessicasilvano.github.io/Barbearia-Alura/)
-- [Code](https://github.com/jessicasilvano/Barbearia-Alura)
+- [Deploy](https://jessicasilvano.github.io/)
+- [Code](https://github.com/jessicasilvano/jessicasilvano.github.io/blob/master/index.html)
 
 ## 🖼️ Result
 
