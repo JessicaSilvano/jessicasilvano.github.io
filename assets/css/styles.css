@@ -482,7 +482,7 @@ img {
     overflow: hidden;
     border-radius: 0.5rem;
 }
-
+ /*
 .works__data {
     position: absolute;
     bottom: -100%;
@@ -496,12 +496,13 @@ img {
     border-radius: 0.5rem;
     transition: 0.3s;
 }
-
+*/
 .works__link {
     display: inline-flex;
+    flex-direction: row;
     font-size: 1.5rem;
-    background-color: var(--first-color-lighten);
-    color: var(--first-color);
+    background-color: var(#000000);
+    color: var(#ffffff);
     padding: 0.25rem;
     border-radius: 0.25rem;
     margin-bottom: var(--mb-2);
@@ -519,7 +520,7 @@ img {
 
 .works__img:hover .works__data {
     bottom: 0;
-}
+} 
 
 /* CONTACT */
 .contact__container {
